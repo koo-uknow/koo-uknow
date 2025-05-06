@@ -52,5 +52,5 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 
   ## 📫 Contact
 💡 Always open to new opportunities and collaborations!  
-📧 **Email:** [gujjang311@naver.com](mailto:gujjang311@g.skku.edu), [hatw15@g.skku.edu](mailto:hatw15@g.skku.edu)  
+📧 **Email:** [gujjang311@g.skku.edu](mailto:gujjang311@g.skku.edu), [gujjang311@naver.com](mailto:gujjang311@naver.com)  
 📍 **Location:** South Korea 🇰🇷
