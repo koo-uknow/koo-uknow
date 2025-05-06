@@ -1,18 +1,56 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yoonho%20Koo&fontSize=40&fontAlign=50&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🤗Hi!%20I'm%20Yoonho%20Koo&fontSize=70&fontAlign=50&fontAlignY=40" />
 
-## Hi there 👋
+## 👋 Hi, I'm Yoonho Koo
 
-<!--
-**koo-uknow/koo-uknow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Deep Learning Researcher** specializing in **6D Pose Estimation** using advanced AI techniques.  
+Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan University**
 
-Here are some ideas to get you started:
+🔬 **Research Interests:**
+- 6D Pose Estimation
+- Computer Vision
+- Deep Learning
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+- **M.S. in Smart Factory Convergence**, Sungkyunkwan University *(2025 - Present)*
+  
+- **B.S. in Robot Automation Engineering**, Dongyang Mirae University *(2018 - 2024)*
+  
+---
+
+## 📚 Seminar on Thesis Research
+
+| Date       | Title & Topic                                                                                         | Link  |
+|------------|-------------------------------------------------------------------------------------------------------|-------|
+| 2025-03-13 | Effective Deployment of CNNs for 3DoF Pose Estimation and Grasping in Industrial Settings             | [Link](https://www.youtube.com/watch?v=Xr6eF9ux5z4) |
+| 2025-03-31 | SAM-6D Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation                               | [Link](https://www.youtube.com/watch?v=eSFdqBNrNzU) |
+| 2025-04-01 | Depth-based 6DoF Object Pose Estimation using Swin Transformer                                        | [Link](https://www.youtube.com/watch?v=T0psauag59g) |
+
+---
+
+## 🔧 Skills
+
+### Programming & Frameworks
+- **Python** *(Deep Learning, Computer Vision, PyTorch, TensorFlow, OpenCV)*
+- **C++ / Arduino** *(Embedded Systems, Motor Control, Robotics)*
+- **ROS (Robot Operating System)** *(LiDAR, SLAM, Autonomous Navigation, Gazebo Simulation)*
+- **Unity / Blender** *(Virtual Simulation, Smart Factory Visualization, Blender Modeling, Blender Animation)*
+- **SolidWorks** *(Machine Modeling)*
+
+### Machine Learning & Deep Learning
+- **6D Pose Estimation** *(ViT, SAM, YOLO6D, Point cloud)*
+- **PyTorch, TensorFlow, OpenCV**
+
+### Database & DevOps
+- **Git & GitHub** *(Version Control, Collaboration)*
+- **Docker** *(Image Creation·Distribution, Container Management)*
+- **Linux (Ubuntu)** *(System Setup, Environment Management, Bash Scripting)*
+  
+---
+
+  ## 📫 Contact
+💡 Always open to new opportunities and collaborations!  
+📧 **Email:** [gujjang311@naver.com](mailto:gujjang311@g.skku.edu), [hatw15@g.skku.edu](mailto:hatw15@g.skku.edu)  
+📍 **Location:** South Korea 🇰🇷
