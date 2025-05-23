@@ -27,7 +27,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2025-03-13 | Effective Deployment of CNNs for 3DoF Pose Estimation and Grasping in Industrial Settings             | [Link](https://www.youtube.com/watch?v=Xr6eF9ux5z4) |
 | 2025-03-31 | SAM-6D Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation                               | [Link](https://www.youtube.com/watch?v=eSFdqBNrNzU) |
 | 2025-04-01 | Depth-based 6DoF Object Pose Estimation using Swin Transformer                                        | [Link](https://www.youtube.com/watch?v=T0psauag59g) |
-
+| 2025-05-11 | Any6D Model free 6D Pose Estimation of Novel Objects                                                  | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
 ---
 
 ## 🔧 Skills
