@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🤗Hi!%20I'm%20Yoonho%20Koo&fontSize=70&fontAlign=50&fontAlignY=40" />
-
 ## 👋 Hi, I'm Yoonho Koo
 
 I am a **Deep Learning Researcher** specializing in **6D Pose Estimation** using advanced AI techniques.  
