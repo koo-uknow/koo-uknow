@@ -7,6 +7,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 
 🔬 **Research Interests:**
 - 6D Pose Estimation
+- Point Cloud
 - Computer Vision
 - Deep Learning
   
@@ -52,5 +53,5 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 
   ## 📫 Contact
 💡 Always open to new opportunities and collaborations!  
-📧 **Email:** [gujjang311@g.skku.edu](mailto:gujjang311@g.skku.edu), [gujjang311@naver.com](mailto:gujjang311@naver.com)  
+📧 **Email:** [gujjang311@skku.edu](mailto:gujjang311@skku.edu), [gujjang311@naver.com](mailto:gujjang311@naver.com)  
 📍 **Location:** South Korea 🇰🇷
