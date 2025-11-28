@@ -47,7 +47,8 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 - **SolidWorks** *(Machine Modeling)*
 
 ### Machine Learning & Deep Learning
-- **6D Pose Estimation** *(ViT, SAM, YOLO6D, Point cloud)*
+- **Point Cloud Segmentation**
+- **6D Pose Estimation** 
 - **PyTorch, TensorFlow, OpenCV**
 
 ### Database & DevOps
