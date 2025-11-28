@@ -4,8 +4,8 @@ I am a **Deep Learning Researcher** specializing in **6D Pose Estimation** using
 Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan University**
 
 🔬 **Research Interests:**
+- Point Cloud Segmentation
 - 6D Pose Estimation
-- Point Cloud
 - Computer Vision
 - Deep Learning
   
@@ -27,14 +27,14 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2025-03-31 | SAM-6D Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation                                                 | [Link](https://www.youtube.com/watch?v=eSFdqBNrNzU) |
 | 2025-04-01 | Depth-based 6DoF Object Pose Estimation using Swin Transformer                                                          | [Link](https://www.youtube.com/watch?v=T0psauag59g) |
 | 2025-05-11 | Any6D Model free 6D Pose Estimation of Novel Objects                                                                    | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
-| 2025-06-01 | KISS-Matcher: Fast and Robust Point Cloud Registration Revisits                                                         | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
-| 2025-07-09 | Se3et-Se(3): equivariant transformer for low-overlap point cloud registration                                           | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
-| 2025-07-15 | CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge                               | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
-| 2025-08-12 | PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection                                          | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
-| 2025-09-03 | Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model                                             | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
-| 2025-10-01 | Point-SAM: Promptable 3D Segmentation Model for Point Clouds                                                            | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
-| 2025-10-15 | Multimodality Helps Few-shot 3D Point Cloud Semantic Segmentation                                                       | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
-| 2025-11-07 | PointDC-Unsupervised Semantic Segmentation of 3D Point Clouds via Cross-modal Distillation and Super-Voxel Clustering   | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
+| 2025-06-01 | KISS-Matcher: Fast and Robust Point Cloud Registration Revisits                                                         | [Link](https://youtu.be/uHtYu7i3pGY?si=l7fGbWw0VNVSrRDu) |
+| 2025-07-09 | Se3et-Se(3): equivariant transformer for low-overlap point cloud registration                                           | [Link](https://youtu.be/iD8dW9DURsM?si=g1gwCJUKZgOjoiDK) |
+| 2025-07-15 | CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge                               | [Link](https://youtu.be/0LEwt7b7Ghs?si=7pMs4TN5xmI_J6wo) |
+| 2025-08-12 | PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection                                          | [Link](https://youtu.be/fpVg_IoDa3w?si=0WUduv8Y20Uewsko) |
+| 2025-09-03 | Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model                                             | [Link](https://youtu.be/e7i3Ll5aH4k?si=633TrPyEBVoH8j71) |
+| 2025-10-01 | Point-SAM: Promptable 3D Segmentation Model for Point Clouds                                                            | [Link](https://youtu.be/Z2LKIP4T7VA?si=TnLYzKjdocZhWOny) |
+| 2025-10-15 | Multimodality Helps Few-shot 3D Point Cloud Semantic Segmentation                                                       | [Link](https://youtu.be/lOVyuRNGBL0?si=WnMARkbdIW-ejWPv) |
+| 2025-11-07 | PointDC-Unsupervised Semantic Segmentation of 3D Point Clouds via Cross-modal Distillation and Super-Voxel Clustering   | [Link](https://youtu.be/CHEFZPpb_x4?si=-cwigW26-uPWj8AS) |
 ---
 
 ## 🔧 Skills
