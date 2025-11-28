@@ -21,12 +21,20 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 
 ## 📚 Seminar on Thesis Research
 
-| Date       | Title & Topic                                                                                         | Link  |
-|------------|-------------------------------------------------------------------------------------------------------|-------|
-| 2025-03-13 | Effective Deployment of CNNs for 3DoF Pose Estimation and Grasping in Industrial Settings             | [Link](https://www.youtube.com/watch?v=Xr6eF9ux5z4) |
-| 2025-03-31 | SAM-6D Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation                               | [Link](https://www.youtube.com/watch?v=eSFdqBNrNzU) |
-| 2025-04-01 | Depth-based 6DoF Object Pose Estimation using Swin Transformer                                        | [Link](https://www.youtube.com/watch?v=T0psauag59g) |
-| 2025-05-11 | Any6D Model free 6D Pose Estimation of Novel Objects                                                  | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
+| Date       | Title & Topic                                                                                                           | Link  |
+|------------|-------------------------------------------------------------------------------------------------------------------------|-------|
+| 2025-03-13 | Effective Deployment of CNNs for 3DoF Pose Estimation and Grasping in Industrial Settings                               | [Link](https://www.youtube.com/watch?v=Xr6eF9ux5z4) |
+| 2025-03-31 | SAM-6D Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation                                                 | [Link](https://www.youtube.com/watch?v=eSFdqBNrNzU) |
+| 2025-04-01 | Depth-based 6DoF Object Pose Estimation using Swin Transformer                                                          | [Link](https://www.youtube.com/watch?v=T0psauag59g) |
+| 2025-05-11 | Any6D Model free 6D Pose Estimation of Novel Objects                                                                    | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
+| 2025-06-01 | KISS-Matcher: Fast and Robust Point Cloud Registration Revisits                                                         | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
+| 2025-07-09 | Se3et-Se(3): equivariant transformer for low-overlap point cloud registration                                           | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) 
+| 2025-07-15 | CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge                               | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
+| 2025-08-12 | PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection                                          | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
+| 2025-09-03 | Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model                                             | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
+| 2025-10-01 | Point-SAM: Promptable 3D Segmentation Model for Point Clouds                                                            | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
+| 2025-10-15 | Multimodality Helps Few-shot 3D Point Cloud Semantic Segmentation                                                       | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
+| 2025-11-07 | PointDC-Unsupervised Semantic Segmentation of 3D Point Clouds via Cross-modal Distillation and Super-Voxel Clustering   | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
 ---
 
 ## 🔧 Skills
