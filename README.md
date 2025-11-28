@@ -28,7 +28,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2025-04-01 | Depth-based 6DoF Object Pose Estimation using Swin Transformer                                                          | [Link](https://www.youtube.com/watch?v=T0psauag59g) |
 | 2025-05-11 | Any6D Model free 6D Pose Estimation of Novel Objects                                                                    | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
 | 2025-06-01 | KISS-Matcher: Fast and Robust Point Cloud Registration Revisits                                                         | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
-| 2025-07-09 | Se3et-Se(3): equivariant transformer for low-overlap point cloud registration                                           | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) 
+| 2025-07-09 | Se3et-Se(3): equivariant transformer for low-overlap point cloud registration                                           | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
 | 2025-07-15 | CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge                               | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
 | 2025-08-12 | PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection                                          | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
 | 2025-09-03 | Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model                                             | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
