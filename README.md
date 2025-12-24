@@ -53,6 +53,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2025-10-01 | Point-SAM: Promptable 3D Segmentation Model for Point Clouds                                                            | [Link](https://youtu.be/Z2LKIP4T7VA?si=TnLYzKjdocZhWOny) |
 | 2025-10-15 | Multimodality Helps Few-shot 3D Point Cloud Semantic Segmentation                                                       | [Link](https://youtu.be/lOVyuRNGBL0?si=WnMARkbdIW-ejWPv) |
 | 2025-11-07 | PointDC-Unsupervised Semantic Segmentation of 3D Point Clouds via Cross-modal Distillation and Super-Voxel Clustering   | [Link](https://youtu.be/CHEFZPpb_x4?si=-cwigW26-uPWj8AS) |
+| 2025-12-18 | PointDC-Unsupervised Semantic Segmentation of 3D Point Clouds via Cross-modal Distillation and Super-Voxel Clustering   | [Link](https://youtu.be/p2dbJxr5U2I?si=pNnjXKZ-5hfqiMEk) |
 ---
 
 ## 🔧 Skills
