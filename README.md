@@ -25,7 +25,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 - 비전트랜스포머를 활용한 점군 생성 프로그램
   - 등록 번호: ASSET_0013929
   - 설명: 비전트랜스포머를 활용하여 2D 이미지로 부터 3D Point Cloud를 생성하는 소프트웨어
-  - 
+    
 - 포인트 클라우드 정합을 이용한 ViT 기반 6D 자세 추정 프로그램
   - 등록 번호: ASSET_0013947
   - 설명: Point Cloud 정합을 이용하여 객체의 6D Pose를 추정하고, 객체의 상태를 정확하게 파악하게 하는 소프트웨어
