@@ -63,6 +63,12 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2025-12-18 | Superpoint Transformer for 3D Scene Instance Segmentation                                                               | [Link](https://youtu.be/p2dbJxr5U2I?si=Cp2sro34ab5-4Et5) |
 | 2026-01-02 | Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation                                        | [Link](https://youtu.be/KSrt9wmu-3A?si=9Wkl9GAg2GHuErG0) |
 | 2026-01-17 | PointGauss: Point Cloud-Guided Multi-Object Segmentation for Gaussian Splatting                                         | [Link](https://youtu.be/-HKUhwLlF24?si=Y7q1W6yPELRnShy8) |
+| 2026-02-01 | ShapeR: Robust Conditional 3D Shape Generation from Casual Captures                                                     | [Link](https://youtu.be/Iiw0yD4NZ0w?si=ejL08RH8AVbY_B5r) |
+| 2026-02-10 | D4RT: Efficiently Reconstructing Dynamic Scenes One D4RT at a Time                                                      | [Link](https://youtu.be/QJ58RbMPAko?si=FQfApyWZbCOvZM0u) |
+| 2026-03-01 | Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning                                             | [Link](https://youtu.be/gUs8VjnpE8g?si=3cz9Yn1tExHRy13M) |
+| 2026-04-03 | ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors                                       | [Link](https://youtu.be/mBV7Z_lA4Sk?si=47Snm_-yYL22ZSt0) |
+| 2026-05-04 | Scalable Unseen Objects 6-DoF Absolute Pose Estimation with Robotic Integration                                         | [Link](https://youtu.be/CVfDE8brOr4?si=AuTedNGd6kop-jpI) |
+
 ---
 
 ## 🔧 Skills
