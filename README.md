@@ -19,6 +19,12 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
   
 ---
 
+## Research Publications
+
+**Journal Articles**
+- Y Koo, H Kang, W Kim, H Lee and J Jeong, "PCR-6D: ViT Based 6D Pose Estimation with Point
+Cloud Registration" in IEEE Access(Submitted)
+
 ## 💡 Intellectual Property
 
 ### Patents
